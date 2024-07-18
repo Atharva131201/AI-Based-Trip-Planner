@@ -1,4 +1,4 @@
 # Table of contents
 
-* [This is a documentation](README.md)
+* [This is a documentation only](README.md)
 * [gitbook](gitbook.md)
